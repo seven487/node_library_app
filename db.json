@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "test@gmail.com",
+      "username": "01010101",
+      "email": "test@gmail.com",
+      "crime": 0,
+      "role": "ADMIN"
+    },
+    {
+      "id": 2,
+      "name": "naser",
+      "username": "Naser",
+      "email": "test@gmail.com",
+      "crime": 0,
+      "role": "ADMIN"
+    },
+    {
+      "id": 3,
+      "name": "joh",
+      "username": "john",
+      "email": "test@gmail.com",
+      "crime": 90000,
+      "role": "ADMIN"
+    },
+    {
+      "id": "ad65456-3e15-44ac-841b-9437e87bb913",
+      "name": "vahid",
+      "username": "vahid",
+      "email": "vahid@gmail.com",
+      "crime": 0,
+      "role": "USER"
+    },
+    {
+      "id": "fc9b7cd0-173c-4f5f-9bc8-ec9c062d7379",
+      "name": "test",
+      "username": "test",
+      "email": "test@gmail.com",
+      "crime": 0,
+      "role": "USER"
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "title": "name_book",
+      "author": "none",
+      "price": 230000,
+      "free": 0
+    },
+    {
+      "id": 2,
+      "title": "name book",
+      "author": "Person 1",
+      "price": 200000,
+      "free": 1
+    }
+  ]
+}
